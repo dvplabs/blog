@@ -4,3 +4,6 @@ description: my blogging site
 background: '/img/bg-index.jpg'
 baseurl: "/"
 url: "https://davidvelasco.me"
+
+paginate: 10 # amount of posts to show
+paginate_path: /page:num/
