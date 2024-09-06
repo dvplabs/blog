@@ -2,7 +2,7 @@ remote_theme: StartBootstrap/startbootstrap-clean-blog-jekyll
 title: David's blog
 description: my blogging site
 background: '/img/bg-index.jpg'
-baseurl: "/"
+# baseurl: "/"
 url: "https://davidvelasco.me"
 
 paginate: 10 # amount of posts to show
