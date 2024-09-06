@@ -2,6 +2,8 @@
 layout: page
 title: Posts
 background: '/img/title1.jpg'
+paginate: 5 # amount of posts to show
+paginate_path: /page:num/
 ---
 
 {% for post in paginator.posts %}
