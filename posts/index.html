@@ -6,7 +6,7 @@ paginate: 5 # amount of posts to show
 paginate_path: /page:num/
 ---
 
-{{ paginator.posts }}
+{{ paginator.per_page }}
 
 {% for post in paginator.posts %}
 
