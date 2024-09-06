@@ -2,4 +2,5 @@ remote_theme: StartBootstrap/startbootstrap-clean-blog-jekyll
 title: David's blog
 description: my blogging site
 background: '/img/bg-index.jpg'
-baseurl: "https://davidvelasco.me"
+baseurl: "/"
+url: "https://davidvelasco.me"
